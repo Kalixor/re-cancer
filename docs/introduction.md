@@ -1,8 +1,11 @@
-# Thérapeutique du Cancer 🥦
+
 
 ![Medical Illustration](https://images.unsplash.com/photo-1579165466741-7f35e4755660?auto=format&fit=crop&w=1200){.medical-illustration}
 
 <SocialActions />
+
+
+# Thérapeutique du Cancer 🥦
 
 🐣 Des solutions naturelles, pourtant simples et efficaces !
 
@@ -21,7 +24,15 @@ La technique de la médecine conventionnelle utilise l'approche physique destruc
 
 D'une efficacité salvatrice (dans les scénarii les plus sévère), ces démarches (dites curatives) restent dévastatrices. Elles éradiquent drastiquement la tumeur (avec des dégâts collatéraux non négligeables), mais souvent <span class="underline-text">sans résoudre la maladie</span>.
 
-<span class="underline-text">Cette approche frontale (anéantir la malignité pour guérir) se focalise sur la dissolution de l'Effet, elle s'affirme curative (propre à guérir) mais ne réalise pas totalement sa vocation. Une approche latérale (comprendre la malignité pour se rétablir) est souhaitable afin de se focaliser plutôt sur la compréhension de la Cause en visant sa déconstruction.</span>
+Cette approche frontale (anéantir la malignité pour guérir) se focalise sur <span class="underline-text">la dissolution de l'Effet</span>, elle s'affirme curative (propre à guérir) mais ne réalise pas totalement sa vocation. Une approche latérale (comprendre la malignité pour se rétablir) est souhaitable afin de se focaliser plutôt sur <span class="underline-text">la compréhension de la Cause</span> en visant sa déconstruction.
+
+En effet rien ne certifie qu’une tumeur n’est pas réversible, de nombreux cas de guérison ont démontré le contraire. En cernant les facteurs, nous devrions être en mesure de stimuler cette réversibilité. 
+
+Vouloir uniquement détruire, sans prendre le temps de s’instruire, ne mène pas à une démarche fructueuse. Ce n’est qu’aujourd’hui que l’on commence vraiment à s’en apercevoir.
+
+
+
+
 
 ## Le Cancer c'est quoi au juste ? {#section2}
 
