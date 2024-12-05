@@ -1,0 +1,140 @@
+:root {
+  --vp-c-brand: #3eaf7c;
+}
+
+/* Text formatting */
+.vp-doc p {
+  text-align: justify;
+  margin: 0.8em 0;
+  margin-bottom: 0.5em;
+  line-height: 1.6;
+  letter-spacing: -0.01em;
+  word-spacing: 0.04em;
+  hyphens: auto;
+}
+
+.vp-doc h2 {
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+  letter-spacing: -0.02em;
+  word-spacing: 0.04em;
+  hyphens: auto;
+}
+
+.vp-doc h3 {
+  margin-top: 2em;
+  margin-bottom: 1.2em;
+  letter-spacing: -0.01em;
+  word-spacing: 0.04em;
+  hyphens: auto;
+}
+
+/* Medical illustration */
+.medical-illustration {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 2em 0;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 2px -2px 12px rgba(100, 210, 245, 0.32);
+  transition: box-shadow 0.3s ease;
+}
+
+.medical-illustration-mini {
+  float: right;
+  width: 40%;
+  height: auto;
+  margin: 0.8em 0 0.8em 1.5em;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 2px -2px 12px rgba(100, 210, 245, 0.32);
+  transition: box-shadow 0.3s ease;
+}
+
+.medical-illustration:hover,
+.medical-illustration-mini:hover {
+  box-shadow: 4px -3px 16px rgba(100, 210, 245, 0.32);
+}
+
+/* Quote styling */
+.custom-quote {
+  margin: 1.5em 0;
+  padding: 1em;
+  border-left: 4px solid var(--vp-c-brand);
+  background-color: var(--vp-c-bg-soft);
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+}
+
+.custom-quote p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+.custom-quote .attribution {
+  display: block;
+  margin-top: 0.8em;
+  font-size: 0.9em;
+  color: var(--vp-c-text-2);
+  text-align: right;
+}
+
+/* Glossy highlight */
+.glossy-highlight {
+  display: block;
+  text-align: center;
+  margin: 2em auto;
+  padding: 0.7em;
+  max-width: 90%;
+  background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.2) 50%, rgba(255,255,255,0.1) 100%);
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  color: rgb(249, 225, 197);
+  line-height: 1.8;
+}
+
+/* Underline text */
+.underline-text {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--vp-c-text-2);
+  text-underline-offset: 3.5px;
+}
+
+/* Return link styling */
+.return-link {
+  display: flex;
+  align-items: center;
+  font-size: 0.9em;
+  padding: 0 1px;
+  margin: 0 1px;
+  color: var(--vp-c-brand);
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+.return-link:hover {
+  background-color: var(--vp-c-brand-dimm-1);
+}
+
+/* List spacing */
+.vp-doc ul,
+.vp-doc ol {
+  margin: 1.2em 0;
+  padding-left: 1.5em;
+}
+
+.vp-doc li {
+  margin: 0.5em 0;
+  letter-spacing: -0.01em;
+  word-spacing: -0.05em;
+}
+
+/* Section spacing */
+.vp-doc section {
+  margin: 2em 0;
+}

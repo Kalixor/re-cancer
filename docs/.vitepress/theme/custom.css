@@ -1,0 +1,15 @@
+:root {
+  --vp-c-brand: #3eaf7c;
+}
+
+.return-link {
+  font-size: 0.9em;
+  padding: 4px 8px;
+  border-radius: 4px;
+  background-color: var(--vp-c-brand-dimm);
+  transition: background-color 0.2s;
+}
+
+.return-link:hover {
+  background-color: var(--vp-c-brand-light);
+}
