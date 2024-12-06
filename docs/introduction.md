@@ -14,7 +14,7 @@
 <span class="attribution">- Avicenne</span>
 </div>
 
-## L'approche du remède {#section1}
+## Les Approches du Remède {#section1}
 
 ![Medical Illustration](/assets/illustration_2.webp){.medical-illustration-mini}
 
@@ -26,22 +26,19 @@ D'une efficacité salvatrice (dans les scénarii les plus sévère), ces démarc
 
 Cette approche frontale (anéantir la malignité pour guérir) se focalise sur <span class="underline-text">la dissolution de l'Effet</span>, elle s'affirme curative (propre à guérir) mais ne réalise pas totalement sa vocation. Une approche latérale (comprendre la malignité pour se rétablir) est souhaitable afin de se focaliser plutôt sur <span class="underline-text">la compréhension de la Cause</span> en visant sa déconstruction.
 
-En effet rien ne certifie qu'une tumeur n'est pas réversible, de nombreux cas de guérison ont démontré le contraire. En cernant les facteurs, nous devrions être en mesure de stimuler cette réversibilité. 
+En effet, rien ne prouve qu’une tumeur ne soit pas réversible. De nombreux cas de guérison en témoignent. En identifiant les facteurs clés, nous devrions être en mesure de favoriser cette réversibilité. 
 
 <div class="glossy-highlight">
-Vouloir uniquement détruire, sans prendre le temps de s'instruire, ne mène pas à une démarche fructueuse. Ce n'est qu'aujourd'hui que l'on commence vraiment à s'en apercevoir.
+Détruire sans prendre le temps de s’instruire n’ouvre pas la voie à la guérison, mais conduit seulement à un traitement perpétuel...
 </div>
 
 
-
-
-
-
-## Le Cancer c'est quoi au juste ? {#section2}
+## Mais le Cancer c'est quoi ? {#section2}
 
 Le Cancer n'est pas en soi un virus, ni une bactérie, ni un parasite, ni un champignon…
 
-Le Cancer est un dérèglement du comportement cellulaire (Néoplasme Malin).
+<div class="glossy-highlight">Le Cancer est un dérèglement du comportement cellulaire</div>
+ (Néoplasme Malin).
 
 Contenu de la section 2...
 
