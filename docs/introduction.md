@@ -26,9 +26,12 @@ D'une efficacité salvatrice (dans les scénarii les plus sévère), ces démarc
 
 Cette approche frontale (anéantir la malignité pour guérir) se focalise sur <span class="underline-text">la dissolution de l'Effet</span>, elle s'affirme curative (propre à guérir) mais ne réalise pas totalement sa vocation. Une approche latérale (comprendre la malignité pour se rétablir) est souhaitable afin de se focaliser plutôt sur <span class="underline-text">la compréhension de la Cause</span> en visant sa déconstruction.
 
-En effet rien ne certifie qu’une tumeur n’est pas réversible, de nombreux cas de guérison ont démontré le contraire. En cernant les facteurs, nous devrions être en mesure de stimuler cette réversibilité. 
+En effet rien ne certifie qu'une tumeur n'est pas réversible, de nombreux cas de guérison ont démontré le contraire. En cernant les facteurs, nous devrions être en mesure de stimuler cette réversibilité. 
 
-Vouloir uniquement détruire, sans prendre le temps de s’instruire, ne mène pas à une démarche fructueuse. Ce n’est qu’aujourd’hui que l’on commence vraiment à s’en apercevoir.
+<div class="glossy-highlight">
+Vouloir uniquement détruire, sans prendre le temps de s'instruire, ne mène pas à une démarche fructueuse. Ce n'est qu'aujourd'hui que l'on commence vraiment à s'en apercevoir.
+</div>
+
 
 
 
